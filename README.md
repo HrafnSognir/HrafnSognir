@@ -6,12 +6,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
-[![Neovim](https://img.shields.io/badge/Neovim-282828.svg?logo=neovim&logoColor=d5c4a1)](https://neovim.io)
 [![Java](https://img.shields.io/badge/Java-%23282828.svg?&logo=openjdk&logoColor=%23d5c4a1)](https://openjdk.org/index.html)
 
 
 ## My toolbox
-
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
@@ -26,6 +24,7 @@ I am a hobby software developer learning to<br>create tiny SNES-inspired arcade 
 
 <!--
 ---
+[![Neovim](https://img.shields.io/badge/Neovim-282828.svg?logo=neovim&logoColor=d5c4a1)](https://neovim.io)
 [![omarchy](https://img.shields.io/badge/Omarchy-%23282828.svg?logo=omarchy&logoColor=%23d5c4a1)](https://omarchy.org/)
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
