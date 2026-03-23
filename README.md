@@ -1,13 +1,17 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-[![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
+[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
+[![C++](https://img.shields.io/badge/C++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
 [![Neovim](https://img.shields.io/badge/Neovim-282828.svg?logo=neovim&logoColor=d5c4a1)](https://neovim.io)
+[![Java](https://img.shields.io/badge/Java-%23282828.svg?&logo=openjdk&logoColor=%23d5c4a1)](https://openjdk.org/index.html)
+
 
 ## My toolbox
+
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
@@ -22,6 +26,7 @@ I am a hobby software developer learning to<br>create tiny SNES-inspired arcade 
 
 <!--
 ---
+[![omarchy](https://img.shields.io/badge/Omarchy-%23282828.svg?logo=omarchy&logoColor=%23d5c4a1)](https://omarchy.org/)
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
 [![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
@@ -36,7 +41,7 @@ I am a hobby software developer learning to<br>create tiny SNES-inspired arcade 
 ![C#](https://img.shields.io/badge/C%23-%23282828.svg?logo=csharp%2B%2B&logoColor=%23d5c4a1)
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
 ![WPF](https://img.shields.io/badge/WPF-blue?logo=windows)
-![Monogame](https://img.shields.io/badge/MonoGame-black?logo=monogame)
+[![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio)
 ![Git](https://img.shields.io/badge/GitHub-black?logo=github)
 
