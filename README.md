@@ -16,7 +16,7 @@
 
 
 ## About Me:
-I am a hobby software developer learning to<br>create tiny SNES-inspired arcade games, tools and applications<br>
+I am a hobby software developer learning to<br>create tiny SNES like arcade games, tools and applications<br>
 
 
 </div>
