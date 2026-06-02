@@ -2,12 +2,13 @@
 <div align="center">
 
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
-[![C](https://img.shields.io/badge/-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
+[![C](https://img.shields.io/badge/-%23282828.svg??style=for-the-badge&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org/)
+[![html](https://img.shields.io/badge/html-%23282828.svg??style=for-the-badge&logo=html5&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
 [![Java](https://img.shields.io/badge/Java-%23282828.svg?&logo=openjdk&logoColor=%23d5c4a1)](https://openjdk.org/index.html)
-
+[![C++](https://img.shields.io/badge/-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
