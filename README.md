@@ -73,4 +73,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+for later if i want to do Java
+- [10 Java Projects for beginners](https://www.youtube.com/watch?v=ydSJrHUhbOw)
+- [Java Documentation](https://dev.java/learn/)
+- [JavaFX Documentation](https://openjfx.io/)
 -->
