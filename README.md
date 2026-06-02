@@ -2,7 +2,7 @@
 <div align="center">
 
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
-[![C++](https://img.shields.io/badge/C++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
+[![C](https://img.shields.io/badge/-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
