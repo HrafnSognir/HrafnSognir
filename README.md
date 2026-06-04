@@ -1,14 +1,17 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
-[![C](https://img.shields.io/badge/-%23282828.svg??style=for-the-badge&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org/)
-[![html](https://img.shields.io/badge/html-%23282828.svg??style=for-the-badge&logo=html5&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-%23282828.svg?logo=python&logoColor=%23d5c4a1)](https://www.python.org)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
+[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-%23282828.svg?logo=html5&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://custom-icon-badges.demolab.com/badge/css-%23282828.svg?logo=css3&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ***want to learn:*** <br>
-[![Java](https://img.shields.io/badge/Java-%23282828.svg?&logo=openjdk&logoColor=%23d5c4a1)](https://openjdk.org/index.html)
+[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
+[![C](https://img.shields.io/badge/-%23282828.svg??style=for-the-badge&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org/)
 [![C++](https://img.shields.io/badge/-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
+[![Assembly](https://custom-icon-badges.demolab.com/badge/Assembly-%23282828.svg?logo=asm&logoColor=%23d5c4a1)](https://www.nasm.us)
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
@@ -74,6 +77,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+[![Java](https://img.shields.io/badge/Java-%23282828.svg?&logo=openjdk&logoColor=%23d5c4a1)](https://openjdk.org/index.html)
 for later if i want to do Java
 - [10 Java Projects for beginners](https://www.youtube.com/watch?v=ydSJrHUhbOw)
 - [Java Documentation](https://dev.java/learn/)
