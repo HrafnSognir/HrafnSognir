@@ -4,14 +4,13 @@
 ***Learning:*** <br>
   
 <img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=25"/>
+<br>
 
-##
-
-***want to learn:***
+***want to learn:*** <br>
 
 <img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=25"/>
 <img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=25"/>
-<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=25"/>
+<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=25"/> <br>
 
 ---
 <h4>
