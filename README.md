@@ -1,24 +1,32 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
-<div align="center">
+<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="70%"> <br>
+<div align="center"><h4>
+  
+***Learning:*** <br>
+  
+<img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=25"/>
 
-<h3>
-<img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=30"/>
+##
 
-***want to learn:*** <br>
-<img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=30"/>
-<img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=30"/>
-<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=30"/>
+***want to learn:***
 
+<img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=25"/>
+<img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=25"/>
+<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=25"/>
 
+##
+<h4>
+  
 ***My toolbox:*** <br>
+
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
+</h4>
 
 
-## About Me:
-I am a hobby software developer learning to<br>create tiny SNES like arcade games, tools and applications<br>
-</h3>
+***About Me:***  <br>
+I am a hobby software developer learning to<br>create tiny SNES like arcade games, tools and applications <br>
+
 </div>
 
 
