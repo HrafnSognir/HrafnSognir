@@ -1,13 +1,13 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-
-<img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=20"/>
+<h3>
+<img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=30"/>
 
 ***want to learn:*** <br>
-<img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=20"/>
-<img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=20"/>
-<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=20"/>
+<img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=30"/>
+<img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=30"/>
+<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=30"/>
 
 
 ***My toolbox:*** <br>
@@ -18,7 +18,7 @@
 
 ## About Me:
 I am a hobby software developer learning to<br>create tiny SNES like arcade games, tools and applications<br>
-
+</h3>
 </div>
 
 
