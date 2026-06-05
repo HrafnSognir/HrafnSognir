@@ -1,19 +1,16 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-[![Python](https://custom-icon-badges.demolab.com/badge/Python-%23282828.svg?logo=python&logoColor=%23d5c4a1)](https://www.python.org)
-[![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
-[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-%23282828.svg?logo=html5&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://custom-icon-badges.demolab.com/badge/css-%23282828.svg?logo=css3&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+<img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=20"/>
 
 ***want to learn:*** <br>
-[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
-[![C](https://img.shields.io/badge/-%23282828.svg??style=for-the-badge&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org/)
-[![C++](https://img.shields.io/badge/-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
-[![Assembly](https://custom-icon-badges.demolab.com/badge/Assembly-%23282828.svg?logo=asm&logoColor=%23d5c4a1)](https://www.nasm.us)
+<img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=20"/>
+<img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=20"/>
+<img src="https://cdn.simpleicons.org/raylib/d5c4a1?viewbox=auto&size=20"/>
 
-## My toolbox
+
+***My toolbox:*** <br>
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
@@ -21,7 +18,6 @@
 
 ## About Me:
 I am a hobby software developer learning to<br>create tiny SNES like arcade games, tools and applications<br>
-
 
 </div>
 
@@ -38,7 +34,8 @@ I am a hobby software developer learning to<br>create tiny SNES like arcade game
 [![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
 [![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
+[![Web Dev](https://img.shields.io/badge/Web%20Dev-%23282828.svg?style=flat&logo=html5&logoColor=%23d5c4a1)](https://developer.mozilla.org/en-US/docs/Web)
 [![C++](https://img.shields.io/badge/c++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23282828.svg?logo=csharp%2B%2B&logoColor=%23d5c4a1)
