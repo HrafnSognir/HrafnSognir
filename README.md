@@ -6,7 +6,6 @@
 <a href="https://www.monogame.net"><img src="https://cdn.simpleicons.org/monogame/d5c4a1?viewbox=auto&size=25"/></a>
 
 
-
 ---
 <h4>
   
@@ -24,7 +23,7 @@ I am a hobby software developer learning to<br>create tiny SNES like arcade game
 
 
 <!--
-
+ <a href="https://docs.python.org/3/"><img src="https://cdn.simpleicons.org/python/d5c4a1?viewbox=auto&size=25"/></a>
 **What I'm using:**</br>
 
 -Keep Shield badges ---
