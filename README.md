@@ -2,7 +2,7 @@
 <div align="center"><h4>
   
 ***Learning:*** <br>
-<img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/csharp.png"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/csharp.png"/></a>
 <a href="https://www.monogame.net"><img src="https://cdn.simpleicons.org/monogame/d5c4a1?viewbox=auto&size=25"/></a>
 
 
