@@ -11,7 +11,6 @@
 <h4>
   
 ***My toolbox:*** <br>
-
 [![VSCodium](https://custom-icon-badges.demolab.com/badge/Codium-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://vscodium.com/)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
