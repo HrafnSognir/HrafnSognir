@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/Ravn.svg" alt="logo" width="70%"> <br>
+<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/Ravn.svg" alt="logo" width="25%"> <br>
 <div align="center"><h4>
   
 ***Learning:*** <br>
