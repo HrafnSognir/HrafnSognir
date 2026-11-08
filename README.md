@@ -3,8 +3,9 @@
   
 ***Learning:*** <br>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/csharp.png"/></a>
-<a href="https://www.monogame.net"><img src="https://cdn.simpleicons.org/monogame/d5c4a1?viewbox=auto&size=25"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/d5c4a1?viewbox=auto&size=25"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/d5c4a1?viewbox=auto&size=25"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/d5c4a1?viewbox=auto&size=25"/></a>
 
 ---
 <h4>
@@ -33,6 +34,10 @@ I am a hobby software developer learning to<br>create tiny SNES like arcade game
 <br>
 
 ***want to learn:*** <br>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/csharp.png"/></a>
+<a href="https://www.monogame.net"><img src="https://cdn.simpleicons.org/monogame/d5c4a1?viewbox=auto&size=25"/></a>
+
 
 <img src="https://cdn.simpleicons.org/c/d5c4a1?viewbox=auto&size=25"/>
 <img src="https://cdn.simpleicons.org/cplusplus/d5c4a1?viewbox=auto&size=25"/>
