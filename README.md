@@ -1,11 +1,13 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/Ravn.svg" alt="logo" width="25%"> <br>
+<p align="center"><img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/Ravn.svg" alt="logo" width="25%"></p>
+
 <div align="center"><h4>
-  
+
 ***Learning:*** <br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/d5c4a1?viewbox=auto&size=25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/d5c4a1?viewbox=auto&size=25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/d5c4a1?viewbox=auto&size=25"/></a>
+</h4>
 
 ---
 <h4>
